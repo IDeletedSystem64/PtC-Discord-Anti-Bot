@@ -9,5 +9,5 @@ After being kicked, the user will also remain on a whitelist that stops them fro
 * First we need to install discord.js
   * Open a new bash (cmd/git) into the bot directory
   * Now, type
-    > npm install discord.js --save
+    > npm install 
 * We also need to enter the bot token into the config.json file
