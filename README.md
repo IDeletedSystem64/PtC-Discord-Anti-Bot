@@ -10,4 +10,4 @@ After being kicked, the user will also remain on a whitelist that stops them fro
   * Open a new bash (cmd/git) into the bot directory
   * Now, type
     > npm install 
-* We also need to enter the bot token into the config.json file
+* We also need to enter the bot token into the config-example.json file (Make sure to rename it to "config.json" or the bot will not start!)
